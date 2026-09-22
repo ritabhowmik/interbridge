@@ -1,0 +1,72 @@
+{
+  "province_code": "QC",
+  "province_name": "Quebec",
+  "category": "cosmetics",
+  "category_label": "cosmetics",
+  "regulations": [
+    {
+      "id": "qc-cos-001",
+      "title": "French must be dominant on cosmetic packaging and ingredient lists",
+      "summary": "Cosmetic labels sold in Quebec must show French at least as prominently as any other language, covering product names, usage instructions, and ingredient lists (INCI names are generally accepted as language-neutral).",
+      "regulation_name": "Charter of the French Language, s. 51",
+      "authority": "Office québécois de la langue française (OQLF)",
+      "trigger_keywords": ["cosmetics", "skincare", "makeup", "beauty", "label", "packaging"],
+      "requirement_type": "labelling",
+      "severity": "blocking",
+      "action_required": "Update cosmetic packaging so French text is at least as prominent as English, matching Quebec's language-of-commerce rules.",
+      "estimated_timeline_days": 21,
+      "penalty_note": "Non-compliant labels are subject to OQLF demand letters and fines on repeat violation.",
+      "source_name": "Office québécois de la langue française",
+      "source_url": "https://www.oqlf.gouv.qc.ca/english/charter/index.html",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "id": "qc-cos-002",
+      "title": "Storefront and e-commerce signage must also be predominantly French",
+      "summary": "Under Bill 96, any public-facing signage, website, or storefront selling your cosmetics to Quebec consumers must have French appear markedly predominant, not just the product packaging itself.",
+      "regulation_name": "Bill 96 (Act respecting French, the official and common language of Québec)",
+      "authority": "Office québécois de la langue française (OQLF)",
+      "trigger_keywords": ["cosmetics", "storefront", "signage", "e-commerce", "website"],
+      "requirement_type": "labelling",
+      "severity": "advisory",
+      "action_required": "Review storefront signage and e-commerce checkout pages serving Quebec customers for French-predominance compliance.",
+      "estimated_timeline_days": 30,
+      "penalty_note": "OQLF enforcement escalates from demand letters to fines for repeat non-compliance.",
+      "source_name": "Office québécois de la langue française",
+      "source_url": "https://www.oqlf.gouv.qc.ca/english/charter/index.html",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "id": "qc-cos-003",
+      "title": "Quebec Sales Tax (QST) registration for cosmetic sales",
+      "summary": "Cosmetics sold in Quebec are taxable goods requiring QST registration and collection alongside federal GST once you have significant presence selling into the province.",
+      "regulation_name": "Act respecting the Québec sales tax",
+      "authority": "Revenu Québec",
+      "trigger_keywords": ["cosmetics", "tax", "sales tax", "retail"],
+      "requirement_type": "tax",
+      "severity": "blocking",
+      "action_required": "Register for a QST number with Revenu Québec before selling cosmetics into Quebec.",
+      "estimated_timeline_days": 7,
+      "penalty_note": "Selling without required QST registration can trigger retroactive assessments and penalties.",
+      "source_name": "Revenu Québec",
+      "source_url": "https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/registering-for-the-gsthst-and-qst/",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "id": "qc-cos-004",
+      "title": "Business registration with the Registraire des entreprises",
+      "summary": "Any business operating in Quebec, including online cosmetic sellers with a Quebec presence, must register with the Registraire des entreprises du Québec (REQ) and keep filings current.",
+      "regulation_name": "Act respecting the legal publicity of enterprises",
+      "authority": "Registraire des entreprises du Québec (REQ)",
+      "trigger_keywords": ["cosmetics", "business registration", "enterprise"],
+      "requirement_type": "registration",
+      "severity": "blocking",
+      "action_required": "File a declaration of registration with the Registraire des entreprises before commencing operations in Quebec.",
+      "estimated_timeline_days": 10,
+      "penalty_note": "Operating without required REQ registration can result in fines.",
+      "source_name": "Registraire des entreprises du Québec",
+      "source_url": "https://www.quebec.ca/en/business-and-self-employment/start-business/steps-starting-business/registering-business",
+      "last_verified": "2026-09-22"
+    }
+  ]
+}

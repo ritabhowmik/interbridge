@@ -1,0 +1,72 @@
+{
+  "province_code": "BC",
+  "province_name": "British Columbia",
+  "category": "cosmetics",
+  "category_label": "cosmetics",
+  "regulations": [
+    {
+      "id": "bc-cos-001",
+      "title": "BC business entity registration",
+      "summary": "Before selling cosmetics under a business name in BC, you need to reserve that name and register your sole proprietorship, partnership, or corporation with BC Registry Services.",
+      "regulation_name": "Business Corporations Act / Partnership Act - business registration requirements",
+      "authority": "BC Registry Services, Ministry of Citizens' Services",
+      "trigger_keywords": ["cosmetics", "skincare", "makeup", "beauty", "business registration", "enterprise"],
+      "requirement_type": "registration",
+      "severity": "blocking",
+      "action_required": "Reserve your business name (or confirm you're trading under your own legal name) and complete registration through BC Registry Services before commencing sales.",
+      "estimated_timeline_days": 7,
+      "penalty_note": "Operating and invoicing under an unregistered business name can result in fines and complications remitting taxes or opening a business bank account.",
+      "source_name": "Province of British Columbia - Sole proprietorships and partnerships",
+      "source_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/permits-licences/businesses-incorporated-companies/proprietorships-partnerships",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "id": "bc-cos-002",
+      "title": "PST registration for cosmetic sales",
+      "summary": "Cosmetics are not covered by BC's basic groceries exemption, so they are taxable goods. Sellers must register with the Ministry of Finance and charge 7% Provincial Sales Tax on cosmetic products sold in BC.",
+      "regulation_name": "Provincial Sales Tax Act",
+      "authority": "BC Ministry of Finance",
+      "trigger_keywords": ["cosmetics", "skincare", "makeup", "beauty", "tax", "sales tax", "retail"],
+      "requirement_type": "tax",
+      "severity": "blocking",
+      "action_required": "Register for a PST number with eTaxBC and begin charging 7% PST on cosmetic sales made to BC customers.",
+      "estimated_timeline_days": 7,
+      "penalty_note": "Selling taxable cosmetics without PST registration can lead to retroactive assessment plus penalties and interest under the Provincial Sales Tax Act.",
+      "source_name": "Province of British Columbia - PST",
+      "source_url": "https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "id": "bc-cos-003",
+      "title": "WorkSafeBC employer registration",
+      "summary": "If you hire anyone in BC to manufacture, package, or sell your cosmetics, you must register with WorkSafeBC and pay premiums for workers' compensation coverage before they start work.",
+      "regulation_name": "Workers Compensation Act",
+      "authority": "WorkSafeBC (Workers' Compensation Board of BC)",
+      "trigger_keywords": ["cosmetics", "manufacturing", "employee", "staff", "hiring", "beauty"],
+      "requirement_type": "registration",
+      "severity": "blocking",
+      "action_required": "Submit a WorkSafeBC Employer's Registration Application at least 30 days before your first BC employee starts work.",
+      "estimated_timeline_days": 30,
+      "penalty_note": "Employers who fail to register with WorkSafeBC can be assessed unpaid premiums retroactively, plus penalties, and remain personally liable for workplace injury claims.",
+      "source_name": "WorkSafeBC - Apply for coverage",
+      "source_url": "https://www.worksafebc.com/en/insurance/apply-for-coverage",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "id": "bc-cos-004",
+      "title": "Packaging and Paper Product producer (Recycle BC) registration",
+      "summary": "If you supply packaged cosmetics to BC households (directly, online, or through retailers) and don't qualify for the small-producer exemption, you're a \"producer\" under BC's Recycling Regulation and must register with Recycle BC to fund and report on recycling of your packaging.",
+      "regulation_name": "Recycling Regulation (B.C. Reg. 449/2004), Schedule 5 - Packaging and Printed Paper",
+      "authority": "Recycle BC, under the BC Ministry of Environment and Parks' Recycling Regulation",
+      "trigger_keywords": ["cosmetics", "packaging", "label", "skincare", "makeup", "retail"],
+      "requirement_type": "registration",
+      "severity": "blocking",
+      "action_required": "Confirm whether you qualify for the small-producer exemption (under $1M BC revenue, under 1 tonne of packaging supplied, or single non-chain retail location); if not, register as a steward with Recycle BC and report your packaging volumes.",
+      "estimated_timeline_days": 30,
+      "penalty_note": "Producers who don't join an approved plan can face enforcement under the Recycling Regulation and Environmental Management Act, including compliance orders and fines.",
+      "source_name": "Recycle BC - Are You a Steward?",
+      "source_url": "https://recyclebc.ca/producers/registration/are-you-a-steward/",
+      "last_verified": "2026-09-22"
+    }
+  ]
+}
