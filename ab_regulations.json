@@ -1,0 +1,50 @@
+[
+  {
+    "province": "AB",
+    "sector": "alcohol_production",
+    "requirement_type": "licensing",
+    "title": "AGLC licensing for alcohol manufacture and sale",
+    "plain_language_summary": "Alberta uses a privatized liquor distribution model, producers still need a licence from the AGLC and must go through a registered private liquor agency to reach retail.",
+    "raw_requirement_text": "A manufacturer or agency must hold a valid licence from the Alberta Gaming, Liquor and Cannabis Commission prior to the sale or distribution of liquor in Alberta.",
+    "authority": "Alberta Gaming, Liquor and Cannabis (AGLC)",
+    "source_url": "https://aglc.ca/liquor",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "AB",
+    "sector": "food_processing",
+    "requirement_type": "inspection",
+    "title": "Federal meat inspection for interprovincial sale",
+    "plain_language_summary": "Same federal requirement nationwide: meat crossing a provincial line needs CFIA inspection regardless of provincial-only certification.",
+    "raw_requirement_text": "Meat products moved in interprovincial trade require inspection under the Safe Food for Canadians Regulations administered by the Canadian Food Inspection Agency.",
+    "authority": "Canadian Food Inspection Agency (CFIA)",
+    "source_url": "https://inspection.canada.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "AB",
+    "sector": "trucking_logistics",
+    "requirement_type": "licensing",
+    "title": "National Safety Code (NSC) carrier profile, Alberta",
+    "plain_language_summary": "Commercial carriers need an Alberta-registered NSC carrier profile and safety fitness certificate before operating.",
+    "raw_requirement_text": "Operators of commercial vehicles based in or operating within Alberta must maintain a National Safety Code carrier profile under Alberta's Traffic Safety Act.",
+    "authority": "Alberta Transportation and Economic Corridors",
+    "source_url": "https://www.alberta.ca/national-safety-code",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "AB",
+    "sector": "professional_services",
+    "requirement_type": "certification",
+    "title": "Alberta regulatory body registration",
+    "plain_language_summary": "Regulated professions require registration with the applicable Alberta regulator; Alberta has been an early mover on internal trade legislation, so recognition of comparable credentials tends to be more streamlined than average.",
+    "raw_requirement_text": "Individuals practising a regulated profession in Alberta must register with the applicable Alberta regulatory body, subject to recognition provisions under Alberta's internal trade legislation.",
+    "authority": "Relevant Alberta regulatory college (varies by profession)",
+    "source_url": "https://www.alberta.ca/professional-regulatory-organizations",
+    "severity": "conditional",
+    "last_verified": "2026-09-01"
+  }
+]

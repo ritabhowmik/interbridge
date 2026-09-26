@@ -1,0 +1,62 @@
+[
+  {
+    "province": "ON",
+    "sector": "alcohol_production",
+    "requirement_type": "licensing",
+    "title": "Manufacturer's licence to sell alcohol in Ontario",
+    "plain_language_summary": "Any producer selling alcohol into Ontario, whether shipping directly to consumers or through retail, needs a manufacturer's licence from the AGCO before any sales can occur.",
+    "raw_requirement_text": "Under the Liquor Licence and Control Act, a manufacturer must hold a valid licence issued by the Alcohol and Gaming Commission of Ontario prior to manufacturing, selling, or distributing liquor in Ontario.",
+    "authority": "Alcohol and Gaming Commission of Ontario (AGCO)",
+    "source_url": "https://www.agco.ca/alcohol",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "ON",
+    "sector": "alcohol_production",
+    "requirement_type": "labeling",
+    "title": "Ontario alcohol labeling and container standards",
+    "plain_language_summary": "Bottles sold in Ontario need specific label disclosures (alcohol content, standard drink info, warnings) that may differ from your home province's requirements.",
+    "raw_requirement_text": "Products sold within Ontario must meet AGCO-specified labeling standards distinct from federal Food and Drugs Act minimums.",
+    "authority": "Alcohol and Gaming Commission of Ontario (AGCO)",
+    "source_url": "https://www.agco.ca/alcohol",
+    "severity": "conditional",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "ON",
+    "sector": "food_processing",
+    "requirement_type": "inspection",
+    "title": "Federal meat inspection for interprovincial sale",
+    "plain_language_summary": "To legally sell meat products across a provincial border into or out of Ontario, your facility must be federally (CFIA) inspected, not just provincially licensed.",
+    "raw_requirement_text": "Meat products moved in interprovincial trade require inspection under the Safe Food for Canadians Regulations administered by the Canadian Food Inspection Agency.",
+    "authority": "Canadian Food Inspection Agency (CFIA)",
+    "source_url": "https://inspection.canada.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "ON",
+    "sector": "trucking_logistics",
+    "requirement_type": "licensing",
+    "title": "Commercial Vehicle Operator's Registration (CVOR)",
+    "plain_language_summary": "Businesses operating commercial trucks in Ontario need a CVOR certificate, and safety ratings are tracked provincially.",
+    "raw_requirement_text": "Operators of commercial motor vehicles registered in Ontario or operating within Ontario must hold a valid CVOR certificate under the Highway Traffic Act.",
+    "authority": "Ontario Ministry of Transportation",
+    "source_url": "https://www.ontario.ca/page/cvor-and-carrier-safety",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "ON",
+    "sector": "professional_services",
+    "requirement_type": "certification",
+    "title": "Provincial professional licensing recognition",
+    "plain_language_summary": "Regulated professions (e.g. engineering, accounting, trades) generally require registration with the relevant Ontario regulatory body, though Bill C-5's labour mobility provisions are expanding federal recognition of out-of-province credentials.",
+    "raw_requirement_text": "Individuals practising a regulated profession in Ontario must be registered with the applicable Ontario regulatory college or association, subject to labour mobility exceptions under the Free Trade and Labour Mobility in Canada Act.",
+    "authority": "Relevant Ontario regulatory college (varies by profession)",
+    "source_url": "https://www.ontario.ca/page/registering-regulated-profession",
+    "severity": "conditional",
+    "last_verified": "2026-09-01"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "province": "BC",
+    "sector": "alcohol_production",
+    "requirement_type": "licensing",
+    "title": "LCRB manufacturer licence and distribution rules",
+    "plain_language_summary": "Selling alcohol into BC requires a licence from the Liquor and Cannabis Regulation Branch, and distribution generally has to run through BC's structured liquor distribution model.",
+    "raw_requirement_text": "A manufacturer must hold a valid licence from the Liquor and Cannabis Regulation Branch before manufacturing or distributing liquor for sale in British Columbia.",
+    "authority": "Liquor and Cannabis Regulation Branch (LCRB)",
+    "source_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "BC",
+    "sector": "food_processing",
+    "requirement_type": "inspection",
+    "title": "Federal meat inspection for interprovincial sale",
+    "plain_language_summary": "Same federal requirement nationwide: meat crossing a provincial line needs CFIA inspection.",
+    "raw_requirement_text": "Meat products moved in interprovincial trade require inspection under the Safe Food for Canadians Regulations administered by the Canadian Food Inspection Agency.",
+    "authority": "Canadian Food Inspection Agency (CFIA)",
+    "source_url": "https://inspection.canada.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "BC",
+    "sector": "trucking_logistics",
+    "requirement_type": "licensing",
+    "title": "National Safety Code (NSC) carrier registration, BC",
+    "plain_language_summary": "Commercial carriers need a National Safety Code number registered through BC's system, and safety fitness certificates carry province-specific record requirements.",
+    "raw_requirement_text": "Operators of commercial vehicles in British Columbia must maintain a National Safety Code carrier profile administered under the Commercial Transport Act.",
+    "authority": "BC Ministry of Transportation and Infrastructure",
+    "source_url": "https://www2.gov.bc.ca/gov/content/transportation/vehicle-safety-enforcement",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "BC",
+    "sector": "professional_services",
+    "requirement_type": "certification",
+    "title": "BC regulatory body registration",
+    "plain_language_summary": "Regulated professions require registration with the relevant BC regulator, BC's Economic Stabilization (Interprovincial Trade) legislation has expanded automatic recognition of comparable out-of-province credentials.",
+    "raw_requirement_text": "Individuals practising a regulated profession in British Columbia must register with the applicable BC regulatory body, subject to recognition provisions under BC's interprovincial trade legislation.",
+    "authority": "Relevant BC regulatory college (varies by profession)",
+    "source_url": "https://www2.gov.bc.ca/gov/content/employment-business/business",
+    "severity": "conditional",
+    "last_verified": "2026-09-01"
+  }
+]

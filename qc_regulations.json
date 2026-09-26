@@ -1,0 +1,62 @@
+[
+  {
+    "province": "QC",
+    "sector": "alcohol_production",
+    "requirement_type": "licensing",
+    "title": "RACJ permit to produce or distribute alcohol in Quebec",
+    "plain_language_summary": "Selling alcohol into Quebec requires a permit from the Régie des alcools, des courses et des jeux (RACJ), Quebec's equivalent of AGCO.",
+    "raw_requirement_text": "No person may manufacture, sell, or distribute alcoholic beverages in Quebec without a valid permit issued by the Régie des alcools, des courses et des jeux.",
+    "authority": "Régie des alcools, des courses et des jeux (RACJ)",
+    "source_url": "https://racj.gouv.qc.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "QC",
+    "sector": "alcohol_production",
+    "requirement_type": "labeling",
+    "title": "French-language labeling requirement (Bill 96 / Charter of the French Language)",
+    "plain_language_summary": "Product labels sold in Quebec must have French as the predominant language on the packaging, this is a common trip-up for producers expanding from English-speaking provinces.",
+    "raw_requirement_text": "Under the Charter of the French Language, French must appear on product labels and packaging sold in Quebec, and must be at least as prominent as any other language.",
+    "authority": "Office québécois de la langue française (OQLF)",
+    "source_url": "https://www.oqlf.gouv.qc.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "QC",
+    "sector": "food_processing",
+    "requirement_type": "inspection",
+    "title": "Federal meat inspection for interprovincial sale",
+    "plain_language_summary": "Same federal requirement as other provinces: meat sold across a provincial border needs CFIA inspection, provincial-only inspection isn't sufficient.",
+    "raw_requirement_text": "Meat products moved in interprovincial trade require inspection under the Safe Food for Canadians Regulations administered by the Canadian Food Inspection Agency.",
+    "authority": "Canadian Food Inspection Agency (CFIA)",
+    "source_url": "https://inspection.canada.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "QC",
+    "sector": "trucking_logistics",
+    "requirement_type": "licensing",
+    "title": "Registre des titulaires de permis (trucking registration)",
+    "plain_language_summary": "Commercial carriers operating in Quebec need to register with the Commission des transports du Québec, separate from CVOR-equivalent systems in other provinces.",
+    "raw_requirement_text": "Owners and operators of heavy vehicles used for the transport of goods in Quebec must be registered under the Act respecting owners and operators of heavy vehicles.",
+    "authority": "Commission des transports du Québec (CTQ)",
+    "source_url": "https://www.ctq.gouv.qc.ca/",
+    "severity": "blocker",
+    "last_verified": "2026-09-01"
+  },
+  {
+    "province": "QC",
+    "sector": "professional_services",
+    "requirement_type": "certification",
+    "title": "Ordre professionnel registration",
+    "plain_language_summary": "Regulated professions in Quebec require membership in the relevant professional order (ordre professionnel), and many require French-language competency assessment.",
+    "raw_requirement_text": "Practising a regulated profession in Quebec requires membership in the corresponding ordre professionnel under the Professional Code, subject to mutual recognition arrangements.",
+    "authority": "Office des professions du Québec",
+    "source_url": "https://www.opq.gouv.qc.ca/",
+    "severity": "conditional",
+    "last_verified": "2026-09-01"
+  }
+]
